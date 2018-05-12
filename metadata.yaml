@@ -1,0 +1,36 @@
+_repo: --_24178
+_version: 0.1.0
+alternative_title:
+- Mencius
+- Mengzi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mencius
+    aliases:
+    - Mengzi
+    - 孟子
+    birthdate: -385
+    deathdate: -289
+    gutenberg_agent_id: '7977'
+    url: http://www.gutenberg.org/2009/agents/7977
+    wikipedia: http://en.wikipedia.org/wiki/Mencius
+description: ''
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24178'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcc 'PL'
+- !lcsh 'Conduct of life -- Early works to 1800'
+- !lcsh 'Philosophy, Confucian -- Early works to 1800'
+- !lcsh 'Philosophy, Chinese -- Early works to 1800'
+title: 孟子
+url: http://www.gutenberg.org/ebooks/24178
